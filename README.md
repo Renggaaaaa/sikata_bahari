@@ -1,1 +1,7 @@
-# sikata_bahari
+# sikata_bahari![Screenshot (436)](https://user-images.githubusercontent.com/109476353/179764653-974a3d34-f7b6-44bc-9b63-a089321b79f1.png)
+![Screenshot (438)](https://user-images.githubusercontent.com/109476353/179764679-deff4d6e-3411-4898-86bf-d80861aefff7.png)
+![Screenshot (439)](https://user-images.githubusercontent.com/109476353/179764690-f2252144-f3ea-4228-a7ed-541f96e6271f.png)
+![Screenshot (440)](https://user-images.githubusercontent.com/109476353/179764699-093e93cb-d6d8-4cc4-984c-0a2ba8656262.png)
+![Screenshot (441)](https://user-images.githubusercontent.com/109476353/179764742-d77822ed-5f84-4f3d-83c7-71c3c9f6fa3b.png)
+![Screenshot (434)](https://user-images.githubusercontent.com/109476353/179764751-b4de117a-a8d4-4550-a7f5-2ab56806b184.png)
+![Screenshot (435)](https://user-images.githubusercontent.com/109476353/179764788-9ada42ab-85eb-4eb8-a41a-cd9da182b067.png)
